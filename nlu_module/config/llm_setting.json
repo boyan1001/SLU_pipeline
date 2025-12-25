@@ -1,0 +1,91 @@
+[
+    {
+        "provider": "openai",
+        "model": "gpt-5-mini",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        }
+    },
+    {
+        "provider": "gemini",
+        "model": "gemini-2.5-flash",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.2
+    },
+    {
+        "provider": "ollama",
+        "model": "gemma3:4b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "gemma3:12b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "gemma3:27b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "gpt-oss:20b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "qwen3:4b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "qwen3:8b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "qwen3:14b",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    },
+    {
+        "provider": "ollama",
+        "model": "gemma3:270m",
+        "max_output_tokens": {
+            "intent_detection": 256,
+            "slot_filling": 512
+        },
+        "temperature": 0.0
+    }
+]

@@ -1,0 +1,1270 @@
+[
+    {
+        "intent_name": "qa_currency",
+        "description": "",
+        "examples": [
+            "money exchange",
+            "what is worth more a u. s. d. or aus",
+            "for how much can we exchange us dollar for indian rupee",
+            "show exchange rate of u. s. d. vs euro",
+            "currency rate of indian rupee and singapore dollar",
+            "explain the exchange rate of rupee for dollar",
+            "new exchange rate",
+            "find exchange rate for u. s. d. to euro",
+            "what is the price of euro to u. s. d.",
+            "whats the ratio of value of the indian rupee and a us dollar"
+        ]
+    },
+    {
+        "intent_name": "email_query",
+        "description": "",
+        "examples": [
+            "check my email for new emails during the last hour",
+            "any recent emails from anna",
+            "check email today",
+            "have i gotten any emails lately",
+            "any new emails in my inbox",
+            "anything new",
+            "open inbox",
+            "search my emails with subject including work hours",
+            "have i received any emails from my mother",
+            "olly let me know if i get a message about the party from jane"
+        ]
+    },
+    {
+        "intent_name": "takeaway_order",
+        "description": "",
+        "examples": [
+            "hey order a pizza pie with extra cheese",
+            "food order from grub hub",
+            "food order from grubhub",
+            "order me the fish risotto from the golden fork",
+            "order chinese food",
+            "any fast food meal offers",
+            "when i get home can you please order a pizza",
+            "i'm hungry show me some takeaway food",
+            "i want to order some food",
+            "yo order take out from jason's deli on sixth ave"
+        ]
+    },
+    {
+        "intent_name": "takeaway_query",
+        "description": "",
+        "examples": [
+            "when i will get the delivery",
+            "does restaurant have takeaway",
+            "find my thai takeaways around grassmarket",
+            "how long will my order be",
+            "how long until i receive my food",
+            "look up whether or not charley's steakhouse delivers",
+            "how much time it will take to prepare the order",
+            "does the nearby pizza hut deliver in my area",
+            "will the restaurant deliver the order",
+            "does that restaurant deliver"
+        ]
+    },
+    {
+        "intent_name": "lists_remove",
+        "description": "",
+        "examples": [
+            "remove dog food from my grocery list",
+            "find the list you want to delete",
+            "delete list",
+            "remove fruits from the list",
+            "remove the bank transaction list",
+            "abolish an item from list",
+            "erase shopping list",
+            "remove a list please",
+            "i don't need apples remove it from my shopping list",
+            "remove the list of apps which started with letter a"
+        ]
+    },
+    {
+        "intent_name": "weather_query",
+        "description": "",
+        "examples": [
+            "what's the current weather",
+            "check weather",
+            "do i need to wear some warm clothes today",
+            "do i need a coat",
+            "when is it suppose to be above fifty again",
+            "will this morning stay sunny",
+            "how is the current weather in california",
+            "get today's weather report",
+            "what is the weather in london",
+            "is it too hot for pants"
+        ]
+    },
+    {
+        "intent_name": "calendar_query",
+        "description": "",
+        "examples": [
+            "do i have any upcoming reminders",
+            "tell me my meetings this wednesday morning",
+            "what is the my upcoming events",
+            "what time is my meeting",
+            "appointments this wednesday",
+            "what is the location of my work project meeting",
+            "what do i have to do tomorrow",
+            "show me all meeting reminder",
+            "where is my meeting",
+            "do i have any off days this week"
+        ]
+    },
+    {
+        "intent_name": "recommendation_events",
+        "description": "",
+        "examples": [
+            "i need something fun to do this weekend nearby can you give me ideas",
+            "what's happening tonight in chicago",
+            "what should i do in san diego",
+            "can you tell me list of events for this weekend in pondichery",
+            "olly tell me about some cool events going on here",
+            "are there any special events in my town",
+            "olly recommend a blue grass band event within twenty miles of manchester ma this week",
+            "where is the event venue",
+            "find the events",
+            "list ongoing events near me"
+        ]
+    },
+    {
+        "intent_name": "email_querycontact",
+        "description": "",
+        "examples": [
+            "apply search and check",
+            "what's his number",
+            "select the contact",
+            "is alex saved in my contacts list",
+            "what is derek's phone number",
+            "where does john smith live and what is his phone number",
+            "how many contacts are there named john",
+            "check for this mail in my contact if not then add it",
+            "when is the last time i contacted john smith",
+            "how old is mary s."
+        ]
+    },
+    {
+        "intent_name": "alarm_set",
+        "description": "",
+        "examples": [
+            "please wake me up at seven thirty am",
+            "set an alarm for thursday at seven pm",
+            "get me to alarm setting",
+            "alarm five pm",
+            "set an alarm",
+            "google set my alarm to go off in an hour",
+            "set alarm for one hour from now",
+            "six am alarm please",
+            "repeat alarm",
+            "wake me up every weekday at seven am"
+        ]
+    },
+    {
+        "intent_name": "email_sendemail",
+        "description": "",
+        "examples": [
+            "between ten pm to nine am all emails received is to be replied to",
+            "write email to my company mate to submit the task tomorrow",
+            "i did not want you to send that text yet wait until i say send",
+            "send the following email to my sister",
+            "let's email sandy",
+            "send email to boss not feeling well taking a sick day",
+            "create an email to aran",
+            "please send an email to toms principal in regards to the meeting we have tomorrow",
+            "send a request to martin",
+            "send email to nancy about tomorrow's work party details"
+        ]
+    },
+    {
+        "intent_name": "general_quirky",
+        "description": "",
+        "examples": [
+            "can you guarantee that you can chose the winning lottery numbers",
+            "does mr t have a family",
+            "who won the sports game last night",
+            "look for free time",
+            "now what",
+            "i just want to be you friend",
+            "what is the animal with a duck bill and a beavers tail",
+            "what causes if i had junk food and alcohols",
+            "will a two thousand and fifteen fiesta be worth anything in three years",
+            "why do starving people keep having kids"
+        ]
+    },
+    {
+        "intent_name": "qa_definition",
+        "description": "",
+        "examples": [
+            "what is a transistor",
+            "what is the definition of session",
+            "whats that object about",
+            "i would like to know the meaning of word",
+            "define and describe an ultraviolet ray",
+            "what is immigrant",
+            "someone",
+            "define love",
+            "what is a googleplex",
+            "please describe the new harley davidson street bike"
+        ]
+    },
+    {
+        "intent_name": "calendar_set",
+        "description": "",
+        "examples": [
+            "event",
+            "i need an event three days from now scheduled with amy",
+            "i want you to remind me the next meeting with my girlfriend it will be at eight pm next sunday",
+            "when will i meet with joe next",
+            "please remind me about the eleven am business meet",
+            "could you please create a new event on my calendar",
+            "add dentist appointment for friday at five",
+            "set a notification for eleven march that an interview is scheduled with mr rodriguez",
+            "next month my brothers birthday",
+            "remind me in the morning to call my mother"
+        ]
+    },
+    {
+        "intent_name": "general_joke",
+        "description": "",
+        "examples": [
+            "have you heard any good jokes lately",
+            "i need a good joke",
+            "make me happy",
+            "say something funny",
+            "what's the latest joke",
+            "how many jokes do you know",
+            "i need to hear a joke can you tell me one",
+            "tell me a joke about birds",
+            "hey olly make me laugh with a good joke",
+            "olly say something funny"
+        ]
+    },
+    {
+        "intent_name": "alarm_query",
+        "description": "",
+        "examples": [
+            "are there any alarms set what are they",
+            "please let me know the alarm kept for tuesday's meeting",
+            "list all the alarms",
+            "how many alarms are listed",
+            "are there any alarms for today",
+            "please tell me my alarms",
+            "at what time is my alarm set",
+            "show me all scheduled alarms",
+            "is the alarm to the backdoor set and ready to go",
+            "i need to set an alarm how many do i have set"
+        ]
+    },
+    {
+        "intent_name": "play_podcasts",
+        "description": "",
+        "examples": [
+            "play that podcast please",
+            "olly let's hear the united states of anxiety podcast",
+            "play my favourite podcast",
+            "move forward to the next episode",
+            "get me the latest episode of the friends podcast",
+            "play the next episode of drunks and dragons please",
+            "play the next podcast",
+            "play shane dawson podcast",
+            "go to the third episode of this podcast",
+            "can you backward an episode in the podcast"
+        ]
+    },
+    {
+        "intent_name": "music_likeness",
+        "description": "",
+        "examples": [
+            "i love that song",
+            "this song was very good",
+            "i like the background song",
+            "download and save song of dangal movie",
+            "this is one of the best songs for me",
+            "save the opinion that i just posted to this song",
+            "this is a five star song",
+            "i like rock music",
+            "please save the current song to favorites",
+            "save this channel on pandora please"
+        ]
+    },
+    {
+        "intent_name": "iot_cleaning",
+        "description": "",
+        "examples": [
+            "hey start vacuum cleaner robot",
+            "clean the carpets",
+            "turn on vacuum",
+            "start the robot vacuum cleaner at one pm today",
+            "please clean the floor",
+            "activate vacuum cleaner",
+            "initiate to operate robot vacuum cleaner",
+            "have my iroomba clean the house",
+            "i want to turn on the robot vacuum cleaner",
+            "go near vacuum cleaner"
+        ]
+    },
+    {
+        "intent_name": "social_post",
+        "description": "",
+        "examples": [
+            "get it fast resolved",
+            "tweet my complaint on targets customer service",
+            "tweet the president and tell him he's doing a horrible job",
+            "tweet bad service related to out local haskell mcdonalds",
+            "this may brings given of these proble,s to us",
+            "get in touch with leo",
+            "post a status using the latest notes i made in my notepad",
+            "send a complaint to sony about this tv that quit working",
+            "please post so bored to facebook",
+            "please tweet that my diapers are falling apart to pampers"
+        ]
+    },
+    {
+        "intent_name": "transport_traffic",
+        "description": "",
+        "examples": [
+            "give me a current traffic report",
+            "how is the traffic on i twenty five",
+            "is traffic heavy on route eighty today",
+            "how slow is traffic on the five",
+            "how's the traffic",
+            "give me the update on traffic at new york",
+            "give me a traffic update",
+            "in jodhpur traffic level is very low",
+            "where should i avoid this morning",
+            "what's the traffic situation from kamycka to dejvicka"
+        ]
+    },
+    {
+        "intent_name": "play_music",
+        "description": "",
+        "examples": [
+            "hey olly play playlist tactics from music",
+            "play my itunes music",
+            "turn on my playlist of country music",
+            "play music now",
+            "i want to listen classical music",
+            "play only songs by the beatles please",
+            "open a song from the given list",
+            "play for me the music by michael jackson",
+            "find jazz music on my playlist",
+            "bring up my last playlist from tidal"
+        ]
+    },
+    {
+        "intent_name": "music",
+        "description": "",
+        "examples": [
+            "play rock music",
+            "all music released between one thousand nine hundred and ninety and two thousand is only to played",
+            "play rap",
+            "please turn on my spotify playlist",
+            "play country music",
+            "jazz could be choice for me",
+            "put in next queue badra bahar by amit trivedi",
+            "play led zeppelin houses of the holy",
+            "play last christmas by george michael",
+            "only christian rock from one thousand nine hundred and ninety upwards is to be selected and played"
+        ]
+    },
+    {
+        "intent_name": "qa_stock",
+        "description": "",
+        "examples": [
+            "is i. b. m. up today",
+            "what are i. b. m.'s stock prices",
+            "what's the closing price of apple",
+            "what is the lowest microsoft stock price today",
+            "intel company stock price",
+            "list stock price for this company stock",
+            "what are some updates about the stock market",
+            "what is the stock price of nike today",
+            "is starbucks stock up or down from last quarter",
+            "stock rate of facebook"
+        ]
+    },
+    {
+        "intent_name": "datetime_query",
+        "description": "",
+        "examples": [
+            "tell me the time in another city in us",
+            "tell me the time in london england",
+            "what time is it in florida",
+            "what time is it in miami florida",
+            "tell me the time now",
+            "is today the fourth or the fifth",
+            "how many hours ahead is nyc",
+            "what is the time in bangalore",
+            "please tell me the date",
+            "what date is today"
+        ]
+    },
+    {
+        "intent_name": "social_query",
+        "description": "",
+        "examples": [
+            "live show reminders",
+            "may i know what is trending in facebook",
+            "check my twitter account",
+            "let me know if i get a new personal message from martha on facebook today",
+            "show me my husbands facebook posts today",
+            "tell me if anything important is happening on social media today",
+            "what's the most popular story on my facebook newsfeed",
+            "please olly tell me the latest video going viral on twitter for topic narendra modi",
+            "any new facebook posts from amy",
+            "what is trending on twitter"
+        ]
+    },
+    {
+        "intent_name": "news_query",
+        "description": "",
+        "examples": [
+            "train wreck",
+            "facebook launches disputed tag to crack down on fake news",
+            "what are the headlines from the l. a. times",
+            "what are the latest updates with regard to trump's ties to russia",
+            "how is the news media reacting to trump's potential ties with russia",
+            "what is so clean news for the last six hours",
+            "add a new notifier for the gps on my car",
+            "what is the current news today",
+            "what is trending",
+            "what are the headlines from the la times"
+        ]
+    },
+    {
+        "intent_name": "play_audiobook",
+        "description": "",
+        "examples": [
+            "play audiobook",
+            "can you play file",
+            "i want to resume where i last left off in my audio book",
+            "i want to start war and peace where i left off",
+            "resume audio playback of twilight",
+            "go back to the midnight series",
+            "resume the last played audiobook",
+            "resume audiobook playback",
+            "using remote",
+            "start playing from where i left off on the goblet of fire"
+        ]
+    },
+    {
+        "intent_name": "qa_factoid",
+        "description": "",
+        "examples": [
+            "download certain vocab",
+            "i would like if will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be",
+            "what is the capital of maryland",
+            "when was richard nixon born",
+            "how is iron made",
+            "find details about usa",
+            "what is the average per capita income between asia and europe people",
+            "olly how many rivers are there in europe",
+            "how many sides are on a pentagon",
+            "where is botswana"
+        ]
+    },
+    {
+        "intent_name": "transport_taxi",
+        "description": "",
+        "examples": [
+            "i need a taxi in thirty minutes",
+            "open lyft",
+            "book a taxi to pick up shelley hennessey at gate four of the airport for the arrival of aa flight five thousand four hundred and thirty one at three hundred and twenty one on friday",
+            "find me an uber",
+            "book me a taxi for one pm",
+            "hail taxi",
+            "olly call a taxi",
+            "book a taxi to the airport",
+            "call rta and book a taxi for three o'clock in the morning",
+            "open uber app and book me a car for pick up at the airport"
+        ]
+    },
+    {
+        "intent_name": "play_radio",
+        "description": "",
+        "examples": [
+            "the radio should play only on nine hundred and ninety nine fm",
+            "find the best rock station near my location and turn it on",
+            "play the jazz station",
+            "hello hello",
+            "play hiphop in hot ninety seven",
+            "play the sports station",
+            "play this programmes in this pad's",
+            "play hot ninety seven",
+            "start radio and go to frequency on one thousand and forty eight",
+            "alexa play pdr on the am band radio"
+        ]
+    },
+    {
+        "intent_name": "recommendation_locations",
+        "description": "",
+        "examples": [
+            "tell me where the local shopping district is",
+            "olly show me where the nearest restaurant is",
+            "is there any salon in babaji nagar",
+            "which store's got the cheapest three pound beef rump",
+            "i wish to go for cheap shopping is there any dollars shop nearby",
+            "where to buy cannon cameras",
+            "please give me all shop names in a two mile radius",
+            "where can i shop as a local tourist olly",
+            "can you recommend good stores in this area",
+            "recommend some local shops to me"
+        ]
+    },
+    {
+        "intent_name": "lists_createoradd",
+        "description": "",
+        "examples": [
+            "add milk to my shopping list",
+            "open grocery list and add milk",
+            "please add list of friends to invite for the party",
+            "reopen groceries and add milk",
+            "include this item",
+            "refresh the list with new one",
+            "add grocery shopping to my to do list",
+            "create a list of books to be ordered",
+            "add wine to list",
+            "i want to start a new list of power tools on sale at true value"
+        ]
+    },
+    {
+        "intent_name": "podcasts",
+        "description": "",
+        "examples": [
+            "play the next episode",
+            "next one",
+            "skip forward",
+            "skip to next"
+        ]
+    },
+    {
+        "intent_name": "cooking_recipe",
+        "description": "",
+        "examples": [
+            "how many cups of sugar in texas sheet cake frosting",
+            "how do you make vegetarian lasagna",
+            "this fact sheet provides considerations for how to set up your food processing business",
+            "find a recipe for a romantic dinner for two",
+            "what ingredients do i need for tomato soup",
+            "how to cook",
+            "olly what is the best tasting cut of beef",
+            "find a recipe that uses ground beef and zucchini",
+            "recipe for meal",
+            "how can i cook meal"
+        ]
+    },
+    {
+        "intent_name": "iot_hue_lightchange",
+        "description": "",
+        "examples": [
+            "change color of lights",
+            "change your colors to something different",
+            "set the colour of light to red",
+            "change the light color to blue",
+            "turn the living room lights to one percent",
+            "make the room blue",
+            "olly change all lights to blue",
+            "what's up with this yellow light get some white up in here",
+            "can i change this light to orange",
+            "change my house lights colour to blue"
+        ]
+    },
+    {
+        "intent_name": "query",
+        "description": "",
+        "examples": [
+            "weather",
+            "will i need a jacket today",
+            "whats on my calendar today",
+            "what is today's exact date",
+            "whats the date today",
+            "is that song from shakira",
+            "what is the weather going to be like this week",
+            "when is the next appointment",
+            "tell me the today's date",
+            "tell me this week's weather forecast"
+        ]
+    },
+    {
+        "intent_name": "audio_volume_down",
+        "description": "",
+        "examples": [
+            "turn down media volume",
+            "lower the volume to twenty",
+            "low the volume",
+            "i want to slow down my speaker",
+            "turn the volume down",
+            "turn the volume down a little please",
+            "turn down volume twenty percent",
+            "lower the volume please",
+            "please lower the speaker volume",
+            "turn down the volume"
+        ]
+    },
+    {
+        "intent_name": "calendar_remove",
+        "description": "",
+        "examples": [
+            "erase next calendar event",
+            "remove the hip show from my schedule on april second",
+            "remove all the reminders from the calendar",
+            "delete my appointment for tomorrow at three pm",
+            "delete new year's eve from the calendar",
+            "i don't want any events listed on the calendar",
+            "remove the next event on my calendar",
+            "clear all concert schedule",
+            "delete my birthday reminder for next week",
+            "can you please disregard the party that i will be going to this weekend on my calendar"
+        ]
+    },
+    {
+        "intent_name": "transport_query",
+        "description": "",
+        "examples": [
+            "i need directions to lowes in mount h nj",
+            "check time of kalka train from jodhpur station on monday",
+            "give me directions to my nearest bank location",
+            "hey what time does the four train leave the station",
+            "calculate the travel time if i go to orlando by train",
+            "how much time is a train to there",
+            "are there any trips to location a provided by the train",
+            "hey what time does the next train depart",
+            "hey olly what time can i catch the nearest train to me",
+            "where can i book a train ticket to oregon"
+        ]
+    },
+    {
+        "intent_name": "transport_ticket",
+        "description": "",
+        "examples": [
+            "alexa book me a train ticket for this afternoon to chicago",
+            "read the ticket for tesla",
+            "please book a train ticket to",
+            "i want a train ticket from boston to new york",
+            "book a business class seat on the next train to new york city",
+            "reserve a ticket to go to destination by train",
+            "book ticket for paris by train",
+            "can you please buy me a train ticket",
+            "buy train ticket",
+            "show me train tickets"
+        ]
+    },
+    {
+        "intent_name": "qa_maths",
+        "description": "",
+        "examples": [
+            "answer this mathematical question",
+            "what is twenty three times fifty two",
+            "is one divisible by three",
+            "what is the square root of ninety seven",
+            "solution",
+            "can you take five and divide it by three",
+            "tell me formula for area of circle",
+            "what is four plus four",
+            "solution for eighty one divided by nine",
+            "seven times seven"
+        ]
+    },
+    {
+        "intent_name": "post",
+        "description": "",
+        "examples": [
+            "post that i am going to walmart for shopping",
+            "send a tweet to company",
+            "mixed or fake products in market",
+            "write me a tweet about how horrible their management is"
+        ]
+    },
+    {
+        "intent_name": "iot_coffee",
+        "description": "",
+        "examples": [
+            "please make coffee",
+            "olly start coffee at six am",
+            "i want hot coffee",
+            "start cappuccino for me now",
+            "go and make me a coffee",
+            "i'd like an espresso",
+            "i want some coffee",
+            "cup of coffee please",
+            "i'd like a coffee please",
+            "please make coffee according to my earlier preference"
+        ]
+    },
+    {
+        "intent_name": "iot_hue_lightdim",
+        "description": "",
+        "examples": [
+            "dim the lights down a bit",
+            "olly dim the lights in the hall",
+            "please turn down the lights in the living room",
+            "dim the garden light by half",
+            "reduce brightness",
+            "i need to turn the lights down",
+            "dim the living room lights",
+            "please dim the overhead lights",
+            "i would love a less bright up room",
+            "dim the lights please"
+        ]
+    },
+    {
+        "intent_name": "play_game",
+        "description": "",
+        "examples": [
+            "play football match for myself now",
+            "play scabble with me",
+            "play mindsweeper with me",
+            "lets play",
+            "play poker with me",
+            "games",
+            "let's play a game of trivia",
+            "mario",
+            "let's play a game how about tic tac toe",
+            "play scrabble with me"
+        ]
+    },
+    {
+        "intent_name": "lists_query",
+        "description": "",
+        "examples": [
+            "olly what's on my lists",
+            "state the list i have",
+            "pull up the shopping list",
+            "can i have my list",
+            "what's my to do list for today",
+            "what are the current lists i have",
+            "what's next on the list",
+            "groceries list",
+            "what lists do i have saved",
+            "name the lists available"
+        ]
+    },
+    {
+        "intent_name": "music_query",
+        "description": "",
+        "examples": [
+            "in classic all music are there ever any singers",
+            "tell me the song track",
+            "please tell me the name of this band",
+            "whats playing",
+            "who's current music's author",
+            "what's the name of this song",
+            "what are my favorite types of music",
+            "what did she just sing",
+            "what is the name of that song that just went off",
+            "is there any rap that doesn't involve sex money and drugs"
+        ]
+    },
+    {
+        "intent_name": "recommendation_movies",
+        "description": "",
+        "examples": [
+            "what movie should i go see",
+            "tell me the movie with best imdb ratings going on in theatres near me",
+            "olly what movies are playing near me",
+            "learning games",
+            "local theater screening which movie",
+            "what highly rated movies are playing this weekend",
+            "olly what's playing in the roosendaal cinema",
+            "what new movies are good",
+            "what is playing at amc twenty",
+            "movie times tonight"
+        ]
+    },
+    {
+        "intent_name": "alarm_remove",
+        "description": "",
+        "examples": [
+            "snooze all today's alarms permanently",
+            "cancel alarm for tenth of march two thousand seventeen",
+            "please remove the alarm set for wednesday called kickball",
+            "remove seven am alarm",
+            "turn off the alarm for tomorrow morning",
+            "could you please remove the set of alarms between eight and nine",
+            "delete my eight pm alarm",
+            "remove alarm of seven thirty am on monday",
+            "turn off all of my alarms",
+            "remove my morning alarm"
+        ]
+    },
+    {
+        "intent_name": "cleaning",
+        "description": "",
+        "examples": [
+            "i want the robot vacuum cleaner to start at one pm today"
+        ]
+    },
+    {
+        "intent_name": "email_addcontact",
+        "description": "",
+        "examples": [
+            "add dale@gmail dot com to my contacts",
+            "please create a new contact information about jo",
+            "save new email addresses to my contacts",
+            "save my contacts",
+            "add sarah as email contact",
+            "create new contact with email",
+            "create new contact",
+            "i need to add this new contact for sam smith ssmith@yahoo dot com",
+            "i want to and my email address",
+            "add this email to my contacts"
+        ]
+    },
+    {
+        "intent_name": "iot_hue_lightoff",
+        "description": "",
+        "examples": [
+            "olly can you please turn off the light of my bed room",
+            "i need you to turn off the light of my bed room",
+            "shift the light off",
+            "turn off the kitchen lights",
+            "please turn off all the lights in my house",
+            "this room lights off",
+            "lights off in the kitchen please",
+            "switch off kitchen lights",
+            "sandle",
+            "turn the lights off to my room"
+        ]
+    },
+    {
+        "intent_name": "audio_volume_up",
+        "description": "",
+        "examples": [
+            "turn up",
+            "the music volume should increase to ninety",
+            "raise volume to level seven on music player",
+            "move the volume up a little",
+            "unmute my sound",
+            "can you speak a little louder",
+            "i can barely hear you olly",
+            "olly louder",
+            "raise the volume to fifty",
+            "increase the volume to fifty"
+        ]
+    },
+    {
+        "intent_name": "audio_volume_mute",
+        "description": "",
+        "examples": [
+            "silent mode on for the next three hours",
+            "pause the music",
+            "turn off the sound",
+            "sound off please",
+            "don't speak for a while",
+            "mute the sound",
+            "i want to mute the speaker",
+            "set mute for twenty minutes",
+            "please mute the volume control",
+            "please stop for a bit"
+        ]
+    },
+    {
+        "intent_name": "iot_wemo_on",
+        "description": "",
+        "examples": [
+            "turn on living room radio",
+            "please switch on my wemo plug socket",
+            "start the laundry",
+            "could you please turn on the plug",
+            "turn on socket",
+            "turn on my plug",
+            "turn on the socket",
+            "on mobile charger plug",
+            "you can also add additional switches to your home to control more devices",
+            "turn on kitchen light"
+        ]
+    },
+    {
+        "intent_name": "general_greet",
+        "description": "",
+        "examples": [
+            "who are you",
+            "how is everything",
+            "hi",
+            "good afternoon",
+            "how was the day",
+            "how are you doing",
+            "how are you",
+            "hello",
+            "hello how are you",
+            "hello olly how are you today"
+        ]
+    },
+    {
+        "intent_name": "hue_lightup",
+        "description": "",
+        "examples": [
+            "turn up the lights",
+            "brighten the light at seventy percent"
+        ]
+    },
+    {
+        "intent_name": "datetime_convert",
+        "description": "",
+        "examples": [
+            "change this time to ist",
+            "can you change my time zone to central",
+            "if it is six am here what time is it in tokyo",
+            "switch to los angeles time",
+            "which time zone are we in please change to current",
+            "it's eight at night in france what time is it in new york",
+            "if i call mike in california at six pm what will his time be",
+            "please can i know what time will it be at six pm here in australia",
+            "i need the time zone from london england instead of central time zone",
+            "if it's midnight in colorado what time is it in munich"
+        ]
+    },
+    {
+        "intent_name": "quirky",
+        "description": "",
+        "examples": [
+            "i got loads of sleep today",
+            "to get more information about a historic event",
+            "it was a work load day",
+            "what's your favorite color",
+            "movies",
+            "today was a very hectic day",
+            "talk to me",
+            "how are you doing today",
+            "i have a deadline on tuesday"
+        ]
+    },
+    {
+        "intent_name": "iot_hue_lightup",
+        "description": "",
+        "examples": [
+            "brighten the lights a little bit",
+            "please turn up the lights in this room",
+            "turn up the lights please",
+            "raise living room lights half way",
+            "a little brighter thanks",
+            "more light",
+            "more light please",
+            "please increase the brightness in this room",
+            "i need the lights raised can you do that",
+            "increase the brightness of lights bedroom"
+        ]
+    },
+    {
+        "intent_name": "music_settings",
+        "description": "",
+        "examples": [
+            "please repeat that music again of akon",
+            "repeat same song for ten times",
+            "put the current song on repeat",
+            "please put radio in shuffle",
+            "please put this playlist on shuffle",
+            "repeat previous song",
+            "olly shuffle playlist",
+            "display volume strength on current track",
+            "please use shuffle",
+            "please check my playlists for jazz music"
+        ]
+    },
+    {
+        "intent_name": "iot_wemo_off",
+        "description": "",
+        "examples": [
+            "turn off my smart plug socket",
+            "the wemo plug should be turned off on",
+            "can you turn off the smart socket",
+            "turn off my wemo plug",
+            "socket off",
+            "keep the socket in off condition",
+            "turn off smart socket",
+            "make the smart socket turn off",
+            "turn off wifi when you leave home to save power",
+            "switch off the power"
+        ]
+    },
+    {
+        "intent_name": "iot_hue_lighton",
+        "description": "",
+        "examples": [
+            "it's awfully dark here",
+            "can you put the lights on the high setting",
+            "switch on all the lights",
+            "it is dark",
+            "turn on the lights",
+            "turn on the lamp",
+            "please turn on the lights",
+            "turn on hall lights",
+            "it's dark in the living room",
+            "olly it's too dark i can't even see my hands"
+        ]
+    },
+    {
+        "intent_name": "hue_lightoff",
+        "description": "",
+        "examples": [
+            "turn off lamp",
+            "turn off the lights in the living room",
+            "time to sleep olly",
+            "name kill the lights",
+            "turn all lights off during the day",
+            "time to sleep"
+        ]
+    },
+    {
+        "intent_name": "cooking_query",
+        "description": "",
+        "examples": [
+            "i need a recipe for chicken thighs for my pressure cooker",
+            "olly can i use brown sugar instead of white in peanut butter cookies",
+            "what to cook for lunch",
+            "what's the easiest and quickest way to cook a turkey"
+        ]
+    },
+    {
+        "intent_name": "music_dislikeness",
+        "description": "",
+        "examples": [
+            "remember that i do not like this music",
+            "i don't like it",
+            "i hate this song do not play it again",
+            "hi google this song is too noisy",
+            "do not play this song again",
+            "i do not enjoy this song",
+            "i hate this song please remember that so that i don't hear this song ever again",
+            "that song in the background is annoying",
+            "i don't want to hear any more songs of that type",
+            "i don't like this song"
+        ]
+    },
+    {
+        "intent_name": "factoid",
+        "description": "",
+        "examples": [
+            "where is the hottest place on earth",
+            "how many continents are there",
+            "where is obama from",
+            "name the capital of nigeria",
+            "open internet",
+            "who is the prime minister of india",
+            "how tall is micheal jackson",
+            "tell me about donald trump",
+            "who is barack obama"
+        ]
+    },
+    {
+        "intent_name": "set",
+        "description": "",
+        "examples": [
+            "please add my business meeting for ten am at the office with bill",
+            "my calendar is to be updated with all rccg march event",
+            "crate event swimming day on thursday and set it to repeat",
+            "add an event",
+            "calendar",
+            "add eva's birthday party at roller jam for twelve thirty pm on may seventh"
+        ]
+    },
+    {
+        "intent_name": "likeness",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "greet",
+        "description": "",
+        "examples": [
+            "good morning olly",
+            "good morning"
+        ]
+    },
+    {
+        "intent_name": "game",
+        "description": "",
+        "examples": [
+            "play subway surfer",
+            "start game temple runner",
+            "let's play scrabble",
+            "open games directory"
+        ]
+    },
+    {
+        "intent_name": "remove",
+        "description": "",
+        "examples": [
+            "delete an item",
+            "remove all appointments",
+            "delete my next meeting",
+            "clear my calendar",
+            "just delete the next engagement event",
+            "delete next event",
+            "remove icecream from grocery"
+        ]
+    },
+    {
+        "intent_name": "createoradd",
+        "description": "",
+        "examples": [
+            "edit list",
+            "create a new to do list",
+            "start new list",
+            "create a new grocery list",
+            "olly edit list"
+        ]
+    },
+    {
+        "intent_name": "wemo_off",
+        "description": "",
+        "examples": [
+            "turn off the wemo plug socket",
+            "turn off the smart socket"
+        ]
+    },
+    {
+        "intent_name": "radio",
+        "description": "",
+        "examples": [
+            "play radio station",
+            "play the radio station",
+            "turn the radio on",
+            "turn on radio",
+            "play howard stern on sirius",
+            "open fm"
+        ]
+    },
+    {
+        "intent_name": "audio_volume_other",
+        "description": "",
+        "examples": [
+            "could you change the volume",
+            "give a pleasant sound",
+            "comfortably adjust sound",
+            "set the average of the device",
+            "volume level",
+            "change volume",
+            "give me the volume settings",
+            "improve volume clarity",
+            "change the volume of the speakers",
+            "change the audio settings"
+        ]
+    },
+    {
+        "intent_name": "joke",
+        "description": "",
+        "examples": [
+            "alexa tell me a joke",
+            "tell me a joke"
+        ]
+    },
+    {
+        "intent_name": "sendemail",
+        "description": "",
+        "examples": [
+            "new email recipient donna do you have plans for today",
+            "email gary",
+            "reply to all emails received between ten pm and seven am everyday",
+            "all emails received between ten pm and nine am is to be replied to",
+            "reply to that email",
+            "draft response to john's email",
+            "between ten pm and seven am everyday all emails received has to be replied to"
+        ]
+    },
+    {
+        "intent_name": "hue_lightdim",
+        "description": "",
+        "examples": [
+            "the lights are too bright",
+            "lower the brightness of the lights"
+        ]
+    },
+    {
+        "intent_name": "locations",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "querycontact",
+        "description": "",
+        "examples": [
+            "what'sapp"
+        ]
+    },
+    {
+        "intent_name": "addcontact",
+        "description": "",
+        "examples": [
+            "please add to my contact lists and send them a reminder email"
+        ]
+    },
+    {
+        "intent_name": "ticket",
+        "description": "",
+        "examples": [
+            "i want to book a train ticket"
+        ]
+    },
+    {
+        "intent_name": "traffic",
+        "description": "",
+        "examples": [
+            "what is the traffic like",
+            "olly what is the traffic like"
+        ]
+    },
+    {
+        "intent_name": "currency",
+        "description": "",
+        "examples": [
+            "how many euros are in a dollar",
+            "how many canadian dollars are in a us dollar",
+            "alexa i would like my to tell me the trend on foreign exchange rates",
+            "exchange rate dirham and rupees",
+            "i would like my to tell me the trend on foreign exchange rates"
+        ]
+    },
+    {
+        "intent_name": "coffee",
+        "description": "",
+        "examples": [
+            "i need coffee",
+            "olly i need coffee",
+            "make coffee olly",
+            "make coffee"
+        ]
+    },
+    {
+        "intent_name": "wemo_on",
+        "description": "",
+        "examples": [
+            "turn on my wemo socket"
+        ]
+    },
+    {
+        "intent_name": "definition",
+        "description": "",
+        "examples": [
+            "what's a fuel rail injector"
+        ]
+    },
+    {
+        "intent_name": "events",
+        "description": "",
+        "examples": [
+            "events near me"
+        ]
+    },
+    {
+        "intent_name": "convert",
+        "description": "",
+        "examples": [
+            "change my clock to central time zone from my current zone"
+        ]
+    },
+    {
+        "intent_name": "settings",
+        "description": "",
+        "examples": [
+            "shuffle this playlist"
+        ]
+    },
+    {
+        "intent_name": "volume_other",
+        "description": "",
+        "examples": [
+            "change the volume"
+        ]
+    }
+]

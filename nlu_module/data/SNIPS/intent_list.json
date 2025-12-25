@@ -1,0 +1,58 @@
+[
+    {
+        "intent_name": "AddToPlaylist",
+        "description": "User wants to add a track to a specific playlist.",
+        "examples": [
+            "Add this song to my workout playlist.",
+            "Can you put this track in my chill-out playlist?"
+        ]
+    },
+    {
+        "intent_name": "BookRestaurant",
+        "description": "User wants to book a restaurant or dining reservation.",
+        "examples": [
+            "I need a table for two at an Italian restaurant tomorrow night.",
+            "Can you reserve a spot for me at a sushi place this weekend?"
+        ]
+    },
+    {
+        "intent_name": "GetWeather",
+        "description": "User wants to know the weather forecast for a specific location and time.",
+        "examples": [
+            "What's the weather like in New York City this weekend?",
+            "Will it rain tomorrow in San Francisco?"
+        ]
+    },
+    {
+        "intent_name": "PlayMusic",
+        "description": "User wants to play music, either by a specific artist, from a specific era, or a specific song.",
+        "examples": [
+            "Play some jazz music from the 1960s.",
+            "Can you play the latest album by Taylor Swift?"
+        ]
+    },
+    {
+        "intent_name": "RateBook",
+        "description": "User wants to rate a book.",
+        "examples": [
+            "I want to give 'The Great Gatsby' a five-star rating.",
+            "Rate 'To Kill a Mockingbird' with four stars."
+        ]
+    },
+    {
+        "intent_name": "SearchCreativeWork",
+        "description": "User wants to search for a creative work such as a movie, album, book, or picture.",
+        "examples": [
+            "Find me a movie directed by Christopher Nolan.",
+            "Search for albums released in 2020."
+        ]
+    },
+    {
+        "intent_name": "SearchScreeningEvent",
+        "description": "User wants to search for movie screenings or events.",
+        "examples": [
+            "Are there any screenings of 'Inception' this weekend?",
+            "Find movie events happening in Los Angeles."
+        ]
+    }
+]

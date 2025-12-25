@@ -1,0 +1,37 @@
+[
+    {
+        "utterance": "i d like to have this track onto my classical relaxations playlist",
+        "slots": "O O O O O O B-music_item O B-playlist_owner B-playlist I-playlist O",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "add the album to my flow espa\u00f1ol playlist",
+        "slots": "O O B-music_item O B-playlist_owner B-playlist I-playlist O",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "add digging now to my young at heart playlist",
+        "slots": "O B-playlist I-playlist O B-playlist_owner B-entity_name I-entity_name I-entity_name O",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "add this song by too poetic to my piano ballads playlist",
+        "slots": "O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "add this album ny bill callahan to my mi casa es la tuya playlist oficial list",
+        "slots": "O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "add this album to old school death metal",
+        "slots": "O O B-music_item O B-playlist I-playlist I-playlist I-playlist",
+        "intent": "AddToPlaylist"
+    },
+    {
+        "utterance": "i want to book a restaurant for four around zapata",
+        "slots": "O O O O O B-restaurant_type O B-party_size_number B-spatial_relation B-city",
+        "intent": "BookRestaurant"
+    }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "utterance": "event reminder mona tuesday",
+    "slots": "O O B-event_name B-date",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "event reminder mona tuesday",
+    "slots": "O O B-event_name B-date",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  },
+  {
+    "utterance": "put meeting with pawel for tomorrow ten am",
+    "slots": "O B-event_name O B-person O B-date B-time I-time",
+    "intent": "calendar_set"
+  }
+]

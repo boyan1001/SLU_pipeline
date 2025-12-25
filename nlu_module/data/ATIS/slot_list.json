@@ -1,0 +1,982 @@
+[
+    {
+        "slot_name": "fromloc.city_name",
+        "description": "",
+        "examples": [
+            "atlanta",
+            "dallas",
+            "pittsburgh",
+            "boston",
+            "denver",
+            "san",
+            "francisco",
+            "oakland",
+            "newark",
+            "baltimore"
+        ]
+    },
+    {
+        "slot_name": "toloc.city_name",
+        "description": "",
+        "examples": [
+            "denver",
+            "san",
+            "francisco",
+            "philadelphia",
+            "oakland",
+            "boston",
+            "salt",
+            "lake",
+            "city",
+            "seattle"
+        ]
+    },
+    {
+        "slot_name": "toloc.state_code",
+        "description": "",
+        "examples": [
+            "dc"
+        ]
+    },
+    {
+        "slot_name": "depart_date.month_name",
+        "description": "",
+        "examples": [
+            "may",
+            "august",
+            "july",
+            "december",
+            "june",
+            "april",
+            "october",
+            "november",
+            "september",
+            "march"
+        ]
+    },
+    {
+        "slot_name": "depart_date.day_number",
+        "description": "",
+        "examples": [
+            "seventh",
+            "thirtieth",
+            "twenty",
+            "third",
+            "thirty",
+            "first",
+            "fifth",
+            "eleventh",
+            "second",
+            "eighteenth"
+        ]
+    },
+    {
+        "slot_name": "depart_date.date_relative",
+        "description": "",
+        "examples": [
+            "next",
+            "following",
+            "same",
+            "this",
+            "two",
+            "coming",
+            "after"
+        ]
+    },
+    {
+        "slot_name": "depart_date.day_name",
+        "description": "",
+        "examples": [
+            "monday",
+            "wednesday",
+            "saturday",
+            "thursday",
+            "sunday",
+            "tuesday",
+            "friday",
+            "saturdays",
+            "wednesdays",
+            "fridays"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.time_relative",
+        "description": "",
+        "examples": [
+            "after",
+            "before",
+            "by",
+            "around",
+            "about",
+            "no",
+            "later",
+            "than",
+            "near",
+            "close"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.time",
+        "description": "",
+        "examples": [
+            "8",
+            "pm",
+            "10",
+            "time",
+            "1110",
+            "am",
+            "6",
+            "7",
+            "noon",
+            "1"
+        ]
+    },
+    {
+        "slot_name": "depart_time.time_relative",
+        "description": "",
+        "examples": [
+            "before",
+            "after",
+            "about",
+            "around",
+            "approximately",
+            "by",
+            "later",
+            "afterwards",
+            "earlier"
+        ]
+    },
+    {
+        "slot_name": "depart_time.time",
+        "description": "",
+        "examples": [
+            "6",
+            "pm",
+            "8",
+            "am",
+            "4",
+            "1026",
+            "630",
+            "5",
+            "o'clock",
+            "838"
+        ]
+    },
+    {
+        "slot_name": "city_name",
+        "description": "",
+        "examples": [
+            "oakland",
+            "boston",
+            "san",
+            "francisco",
+            "denver",
+            "newark",
+            "baltimore",
+            "atlanta",
+            "pittsburgh",
+            "dallas"
+        ]
+    },
+    {
+        "slot_name": "depart_time.start_time",
+        "description": "",
+        "examples": [
+            "12",
+            "530",
+            "6",
+            "pm",
+            "10",
+            "am",
+            "noon",
+            "430",
+            "5",
+            "2"
+        ]
+    },
+    {
+        "slot_name": "depart_time.end_time",
+        "description": "",
+        "examples": [
+            "4",
+            "7",
+            "pm",
+            "10",
+            "2",
+            "5",
+            "o'clock",
+            "530",
+            "6",
+            "3"
+        ]
+    },
+    {
+        "slot_name": "stoploc.city_name",
+        "description": "",
+        "examples": [
+            "dallas",
+            "atlanta",
+            "denver",
+            "philadelphia",
+            "fort",
+            "worth",
+            "boston",
+            "phoenix",
+            "san",
+            "francisco"
+        ]
+    },
+    {
+        "slot_name": "flight_time",
+        "description": "",
+        "examples": [
+            "times",
+            "schedule",
+            "time",
+            "flight",
+            "schedules",
+            "departure",
+            "arrival",
+            "for",
+            "flights",
+            "of"
+        ]
+    },
+    {
+        "slot_name": "depart_time.period_of_day",
+        "description": "",
+        "examples": [
+            "night",
+            "morning",
+            "evening",
+            "afternoon",
+            "pm",
+            "nighttime",
+            "early",
+            "late",
+            "am",
+            "dinnertime"
+        ]
+    },
+    {
+        "slot_name": "fare_basis_code",
+        "description": "",
+        "examples": [
+            "qw",
+            "f",
+            "y",
+            "h",
+            "m",
+            "q",
+            "qx",
+            "fare",
+            "qo",
+            "yn"
+        ]
+    },
+    {
+        "slot_name": "airline_name",
+        "description": "",
+        "examples": [
+            "eastern",
+            "continental",
+            "us",
+            "air",
+            "american",
+            "airlines",
+            "northwest",
+            "united",
+            "delta",
+            "canada"
+        ]
+    },
+    {
+        "slot_name": "class_type",
+        "description": "",
+        "examples": [
+            "first",
+            "class",
+            "thrift",
+            "business",
+            "coach",
+            "economic"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.period_of_day",
+        "description": "",
+        "examples": [
+            "afternoon",
+            "morning",
+            "evening",
+            "late",
+            "night",
+            "lunch",
+            "time",
+            "midnight"
+        ]
+    },
+    {
+        "slot_name": "cost_relative",
+        "description": "",
+        "examples": [
+            "cheapest",
+            "least",
+            "expensive",
+            "lowest",
+            "less",
+            "under",
+            "most",
+            "cost",
+            "price",
+            "highest"
+        ]
+    },
+    {
+        "slot_name": "fromloc.state_code",
+        "description": "",
+        "examples": [
+            "dc"
+        ]
+    },
+    {
+        "slot_name": "restriction_code",
+        "description": "",
+        "examples": [
+            "ap",
+            "ap80",
+            "80",
+            "ap57",
+            "55",
+            "57"
+        ]
+    },
+    {
+        "slot_name": "economy",
+        "description": "",
+        "examples": [
+            "economy",
+            "class"
+        ]
+    },
+    {
+        "slot_name": "round_trip",
+        "description": "",
+        "examples": [
+            "one",
+            "way",
+            "round",
+            "trip",
+            "trips",
+            "return"
+        ]
+    },
+    {
+        "slot_name": "flight_mod",
+        "description": "",
+        "examples": [
+            "first",
+            "late",
+            "overnight",
+            "earliest",
+            "last",
+            "latest",
+            "time",
+            "possible",
+            "weekday",
+            "early"
+        ]
+    },
+    {
+        "slot_name": "toloc.state_name",
+        "description": "",
+        "examples": [
+            "florida",
+            "pennsylvania",
+            "washington",
+            "california",
+            "colorado",
+            "ohio",
+            "new",
+            "jersey",
+            "north",
+            "carolina"
+        ]
+    },
+    {
+        "slot_name": "fromloc.state_name",
+        "description": "",
+        "examples": [
+            "texas",
+            "california",
+            "new",
+            "jersey",
+            "quebec",
+            "ohio",
+            "north",
+            "carolina",
+            "colorado",
+            "florida"
+        ]
+    },
+    {
+        "slot_name": "airport_code",
+        "description": "",
+        "examples": [
+            "ewr",
+            "mia",
+            "mco",
+            "iah",
+            "dfw",
+            "bur",
+            "ord",
+            "hou",
+            "bwi",
+            "lax"
+        ]
+    },
+    {
+        "slot_name": "depart_time.period_mod",
+        "description": "",
+        "examples": [
+            "early",
+            "late"
+        ]
+    },
+    {
+        "slot_name": "meal",
+        "description": "",
+        "examples": [
+            "meal",
+            "meals"
+        ]
+    },
+    {
+        "slot_name": "transport_type",
+        "description": "",
+        "examples": [
+            "limousine",
+            "car",
+            "rental",
+            "train",
+            "limo",
+            "cars",
+            "rentals",
+            "taxi",
+            "limousines",
+            "air"
+        ]
+    },
+    {
+        "slot_name": "airport_name",
+        "description": "",
+        "examples": [
+            "love",
+            "field",
+            "boston",
+            "airport",
+            "salt",
+            "lake",
+            "city",
+            "pittsburgh",
+            "general",
+            "mitchell"
+        ]
+    },
+    {
+        "slot_name": "depart_date.today_relative",
+        "description": "",
+        "examples": [
+            "tomorrow",
+            "the",
+            "day",
+            "after",
+            "today",
+            "this",
+            "tonight"
+        ]
+    },
+    {
+        "slot_name": "flight_stop",
+        "description": "",
+        "examples": [
+            "nonstop",
+            "one",
+            "stop",
+            "maximum",
+            "number",
+            "of",
+            "stops",
+            "nonstops",
+            "without",
+            "stopping"
+        ]
+    },
+    {
+        "slot_name": "arrive_date.day_name",
+        "description": "",
+        "examples": [
+            "tuesday",
+            "wednesday",
+            "sunday",
+            "monday",
+            "thursday",
+            "saturday",
+            "friday",
+            "thursdays"
+        ]
+    },
+    {
+        "slot_name": "fare_amount",
+        "description": "",
+        "examples": [
+            "466",
+            "dollars",
+            "1000",
+            "300",
+            "500",
+            "1100",
+            "400",
+            "329",
+            "1500",
+            "150"
+        ]
+    },
+    {
+        "slot_name": "meal_description",
+        "description": "",
+        "examples": [
+            "dinner",
+            "breakfast",
+            "meal",
+            "lunch",
+            "snack",
+            "supper"
+        ]
+    },
+    {
+        "slot_name": "fromloc.airport_code",
+        "description": "",
+        "examples": [
+            "mco",
+            "jfk",
+            "dfw",
+            "bwi",
+            "oak",
+            "sfo"
+        ]
+    },
+    {
+        "slot_name": "toloc.airport_name",
+        "description": "",
+        "examples": [
+            "san",
+            "francisco",
+            "airport",
+            "love",
+            "field",
+            "general",
+            "mitchell",
+            "international",
+            "denver",
+            "la"
+        ]
+    },
+    {
+        "slot_name": "return_date.date_relative",
+        "description": "",
+        "examples": [
+            "next",
+            "day",
+            "the",
+            "following"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.start_time",
+        "description": "",
+        "examples": [
+            "1115",
+            "am",
+            "430",
+            "pm",
+            "6",
+            "415",
+            "1133",
+            "445",
+            "12",
+            "1030"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.end_time",
+        "description": "",
+        "examples": [
+            "1245",
+            "pm",
+            "630",
+            "7",
+            "530",
+            "43",
+            "515",
+            "4",
+            "1",
+            "o'clock"
+        ]
+    },
+    {
+        "slot_name": "or",
+        "description": "",
+        "examples": [
+            "or"
+        ]
+    },
+    {
+        "slot_name": "arrive_date.month_name",
+        "description": "",
+        "examples": [
+            "august",
+            "may",
+            "june",
+            "march",
+            "july",
+            "november",
+            "february"
+        ]
+    },
+    {
+        "slot_name": "arrive_date.day_number",
+        "description": "",
+        "examples": [
+            "fifth",
+            "seventh",
+            "first",
+            "second",
+            "fourth",
+            "ninth",
+            "twenty",
+            "fifteenth",
+            "twelfth",
+            "two"
+        ]
+    },
+    {
+        "slot_name": "return_time.period_of_day",
+        "description": "",
+        "examples": [
+            "evening"
+        ]
+    },
+    {
+        "slot_name": "return_date.month_name",
+        "description": "",
+        "examples": [
+            "may",
+            "august"
+        ]
+    },
+    {
+        "slot_name": "return_date.day_number",
+        "description": "",
+        "examples": [
+            "sixth",
+            "twelve"
+        ]
+    },
+    {
+        "slot_name": "flight_number",
+        "description": "",
+        "examples": [
+            "2153",
+            "296",
+            "1222",
+            "210",
+            "1765",
+            "4400",
+            "1083",
+            "852",
+            "269",
+            "number"
+        ]
+    },
+    {
+        "slot_name": "flight_days",
+        "description": "",
+        "examples": [
+            "daily"
+        ]
+    },
+    {
+        "slot_name": "airline_code",
+        "description": "",
+        "examples": [
+            "ff",
+            "twa",
+            "dl",
+            "hp",
+            "ea",
+            "nw",
+            "us",
+            "ua",
+            "cp",
+            "ac"
+        ]
+    },
+    {
+        "slot_name": "toloc.airport_code",
+        "description": "",
+        "examples": [
+            "sfo",
+            "bwi",
+            "jfk",
+            "atl",
+            "dfw"
+        ]
+    },
+    {
+        "slot_name": "mod",
+        "description": "",
+        "examples": [
+            "besides",
+            "smallest",
+            "doesn",
+            "'t",
+            "least",
+            "total",
+            "most",
+            "more",
+            "greatest",
+            "same"
+        ]
+    },
+    {
+        "slot_name": "connect",
+        "description": "",
+        "examples": [
+            "direct",
+            "connecting",
+            "connect",
+            "connections",
+            "connects"
+        ]
+    },
+    {
+        "slot_name": "fromloc.airport_name",
+        "description": "",
+        "examples": [
+            "dallas",
+            "fort",
+            "worth",
+            "airport",
+            "general",
+            "mitchell",
+            "international",
+            "denver",
+            "love",
+            "field"
+        ]
+    },
+    {
+        "slot_name": "aircraft_code",
+        "description": "",
+        "examples": [
+            "747",
+            "dc10",
+            "100",
+            "737",
+            "72s",
+            "767",
+            "f28",
+            "j31",
+            "757",
+            "d10"
+        ]
+    },
+    {
+        "slot_name": "stoploc.airport_name",
+        "description": "",
+        "examples": []
+    },
+    {
+        "slot_name": "depart_date.year",
+        "description": "",
+        "examples": [
+            "1991",
+            "1992",
+            "1993",
+            "year"
+        ]
+    },
+    {
+        "slot_name": "days_code",
+        "description": "",
+        "examples": [
+            "sa"
+        ]
+    },
+    {
+        "slot_name": "stoploc.state_code",
+        "description": "",
+        "examples": [
+            "dc"
+        ]
+    },
+    {
+        "slot_name": "return_date.day_name",
+        "description": "",
+        "examples": [
+            "sunday"
+        ]
+    },
+    {
+        "slot_name": "arrive_date.date_relative",
+        "description": "",
+        "examples": [
+            "next"
+        ]
+    },
+    {
+        "slot_name": "toloc.country_name",
+        "description": "",
+        "examples": [
+            "canada"
+        ]
+    },
+    {
+        "slot_name": "state_name",
+        "description": "",
+        "examples": [
+            "colorado",
+            "texas"
+        ]
+    },
+    {
+        "slot_name": "compartment",
+        "description": "",
+        "examples": []
+    },
+    {
+        "slot_name": "meal_code",
+        "description": "",
+        "examples": [
+            "s",
+            "sd",
+            "d",
+            "ls",
+            "meal",
+            "code"
+        ]
+    },
+    {
+        "slot_name": "day_name",
+        "description": "",
+        "examples": [
+            "thursday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "slot_name": "period_of_day",
+        "description": "",
+        "examples": [
+            "morning",
+            "evening"
+        ]
+    },
+    {
+        "slot_name": "state_code",
+        "description": "",
+        "examples": [
+            "dc"
+        ]
+    },
+    {
+        "slot_name": "stoploc.airport_code",
+        "description": "",
+        "examples": []
+    },
+    {
+        "slot_name": "booking_class",
+        "description": "",
+        "examples": []
+    },
+    {
+        "slot_name": "flight",
+        "description": "",
+        "examples": []
+    },
+    {
+        "slot_name": "time",
+        "description": "",
+        "examples": [
+            "time",
+            "9",
+            "am"
+        ]
+    },
+    {
+        "slot_name": "arrive_time.period_mod",
+        "description": "",
+        "examples": [
+            "earliest",
+            "early"
+        ]
+    },
+    {
+        "slot_name": "today_relative",
+        "description": "",
+        "examples": [
+            "the",
+            "day",
+            "after",
+            "tomorrow"
+        ]
+    },
+    {
+        "slot_name": "arrive_date.today_relative",
+        "description": "",
+        "examples": [
+            "tomorrow"
+        ]
+    },
+    {
+        "slot_name": "time_relative",
+        "description": "",
+        "examples": [
+            "around"
+        ]
+    },
+    {
+        "slot_name": "return_time.period_mod",
+        "description": "",
+        "examples": [
+            "late"
+        ]
+    },
+    {
+        "slot_name": "month_name",
+        "description": "",
+        "examples": [
+            "july"
+        ]
+    },
+    {
+        "slot_name": "day_number",
+        "description": "",
+        "examples": [
+            "sixth",
+            "seventh"
+        ]
+    },
+    {
+        "slot_name": "return_date.today_relative",
+        "description": "",
+        "examples": [
+            "the",
+            "following",
+            "day"
+        ]
+    }
+]

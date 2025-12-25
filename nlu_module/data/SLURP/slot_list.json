@@ -1,0 +1,841 @@
+[
+    {
+        "slot_name": "currency_name",
+        "description": "",
+        "examples": [
+            "u.",
+            "s.",
+            "d.",
+            "aus",
+            "us",
+            "dollar",
+            "indian",
+            "rupee",
+            "euro",
+            "singapore"
+        ]
+    },
+    {
+        "slot_name": "food_type",
+        "description": "",
+        "examples": [
+            "pizza",
+            "pie",
+            "with",
+            "extra",
+            "cheese",
+            "texas",
+            "sheet",
+            "cake",
+            "vegetarian",
+            "lasagna"
+        ]
+    },
+    {
+        "slot_name": "business_type",
+        "description": "",
+        "examples": [
+            "restaurant",
+            "bank",
+            "salon",
+            "dollars",
+            "shop",
+            "stores",
+            "shops",
+            "olive",
+            "garden",
+            "theater"
+        ]
+    },
+    {
+        "slot_name": "order_type",
+        "description": "",
+        "examples": [
+            "delivery",
+            "takeaway",
+            "takeaways",
+            "deliver",
+            "takeout",
+            "to",
+            "go",
+            "carryout",
+            "pick",
+            "up"
+        ]
+    },
+    {
+        "slot_name": "list_name",
+        "description": "",
+        "examples": [
+            "grocery",
+            "list",
+            "shopping",
+            "bank",
+            "transaction",
+            "concert",
+            "schedule",
+            "to",
+            "do",
+            "books"
+        ]
+    },
+    {
+        "slot_name": "date",
+        "description": "",
+        "examples": [
+            "three",
+            "days",
+            "from",
+            "now",
+            "today",
+            "next",
+            "sunday",
+            "this",
+            "weekend",
+            "tenth"
+        ]
+    },
+    {
+        "slot_name": "timeofday",
+        "description": "",
+        "examples": [
+            "morning",
+            "this",
+            "afternoon",
+            "noon",
+            "tonight",
+            "evening",
+            "night",
+            "next",
+            "am"
+        ]
+    },
+    {
+        "slot_name": "person",
+        "description": "",
+        "examples": [
+            "amy",
+            "joe",
+            "anna",
+            "mr",
+            "rodriguez",
+            "t",
+            "richard",
+            "nixon",
+            "aran",
+            "shelley"
+        ]
+    },
+    {
+        "slot_name": "personal_info",
+        "description": "",
+        "examples": [
+            "contact",
+            "information",
+            "phone",
+            "number",
+            "email",
+            "twitter",
+            "handler",
+            "old",
+            "office",
+            "cellphone"
+        ]
+    },
+    {
+        "slot_name": "time",
+        "description": "",
+        "examples": [
+            "next",
+            "three",
+            "hours",
+            "last",
+            "hour",
+            "seven",
+            "thirty",
+            "am",
+            "eight",
+            "pm"
+        ]
+    },
+    {
+        "slot_name": "relation",
+        "description": "",
+        "examples": [
+            "girlfriend",
+            "mother",
+            "company",
+            "mate",
+            "sister",
+            "boss",
+            "secretary",
+            "friends",
+            "family",
+            "supervisor"
+        ]
+    },
+    {
+        "slot_name": "definition_word",
+        "description": "",
+        "examples": [
+            "transistor",
+            "session",
+            "word",
+            "ultraviolet",
+            "ray",
+            "immigrant",
+            "love",
+            "googleplex",
+            "harley",
+            "davidson"
+        ]
+    },
+    {
+        "slot_name": "event_name",
+        "description": "",
+        "examples": [
+            "meeting",
+            "business",
+            "meet",
+            "dentist",
+            "appointment",
+            "interview",
+            "kickball",
+            "brothers",
+            "birthday",
+            "appointments"
+        ]
+    },
+    {
+        "slot_name": "joke_type",
+        "description": "",
+        "examples": [
+            "good",
+            "funny",
+            "birds",
+            "man",
+            "about",
+            "chickens",
+            "best",
+            "dirty",
+            "random",
+            "yo"
+        ]
+    },
+    {
+        "slot_name": "podcast_descriptor",
+        "description": "",
+        "examples": [
+            "next",
+            "episode",
+            "podcast",
+            "all",
+            "theory",
+            "under",
+            "ten",
+            "min",
+            "number",
+            "three"
+        ]
+    },
+    {
+        "slot_name": "podcast_name",
+        "description": "",
+        "examples": [
+            "friends",
+            "drunks",
+            "and",
+            "dragons",
+            "shane",
+            "dawson",
+            "yoga",
+            "videos",
+            "this",
+            "week"
+        ]
+    },
+    {
+        "slot_name": "artist_name",
+        "description": "",
+        "examples": [
+            "akon",
+            "beatles",
+            "michael",
+            "jackson",
+            "madonna",
+            "lady",
+            "gaga",
+            "the",
+            "used",
+            "celine"
+        ]
+    },
+    {
+        "slot_name": "device_type",
+        "description": "",
+        "examples": [
+            "vacuum",
+            "cleaner",
+            "robot",
+            "wemo",
+            "plug",
+            "socket",
+            "gps",
+            "music",
+            "player",
+            "smart"
+        ]
+    },
+    {
+        "slot_name": "media_type",
+        "description": "",
+        "examples": [
+            "facebook",
+            "twitter",
+            "l.",
+            "a.",
+            "times",
+            "tweet",
+            "audio",
+            "book",
+            "song",
+            "so"
+        ]
+    },
+    {
+        "slot_name": "place_name",
+        "description": "",
+        "examples": [
+            "lowes",
+            "in",
+            "mount",
+            "h",
+            "nj",
+            "san",
+            "diego",
+            "chicago",
+            "maryland",
+            "usa"
+        ]
+    },
+    {
+        "slot_name": "music_genre",
+        "description": "",
+        "examples": [
+            "jazz",
+            "classic",
+            "country",
+            "classical",
+            "hiphop",
+            "rock",
+            "pianist",
+            "rap",
+            "metal",
+            "nineties"
+        ]
+    },
+    {
+        "slot_name": "business_name",
+        "description": "",
+        "examples": [
+            "i.",
+            "b.",
+            "m.",
+            "targets",
+            "mcdonalds",
+            "microsoft",
+            "the",
+            "golden",
+            "fork",
+            "intel"
+        ]
+    },
+    {
+        "slot_name": "general_frequency",
+        "description": "",
+        "examples": [
+            "every",
+            "day",
+            "week",
+            "everyday",
+            "repeating",
+            "friday",
+            "first",
+            "monday",
+            "of",
+            "the"
+        ]
+    },
+    {
+        "slot_name": "player_setting",
+        "description": "",
+        "examples": [
+            "repeat",
+            "resume",
+            "start",
+            "where",
+            "i",
+            "left",
+            "off",
+            "go",
+            "back",
+            "backward"
+        ]
+    },
+    {
+        "slot_name": "audiobook_name",
+        "description": "",
+        "examples": [
+            "file",
+            "war",
+            "and",
+            "peace",
+            "twilight",
+            "the",
+            "midnight",
+            "series",
+            "pride",
+            "prejudice"
+        ]
+    },
+    {
+        "slot_name": "transport_agency",
+        "description": "",
+        "examples": [
+            "uber",
+            "golden",
+            "taxi",
+            "ola"
+        ]
+    },
+    {
+        "slot_name": "news_topic",
+        "description": "",
+        "examples": [
+            "train",
+            "wreck",
+            "fake",
+            "news",
+            "trending",
+            "stock",
+            "market",
+            "storm",
+            "election",
+            "standing"
+        ]
+    },
+    {
+        "slot_name": "radio_name",
+        "description": "",
+        "examples": [
+            "nine",
+            "hundred",
+            "and",
+            "ninety",
+            "fm",
+            "rock",
+            "station",
+            "hot",
+            "seven",
+            "sports"
+        ]
+    },
+    {
+        "slot_name": "house_place",
+        "description": "",
+        "examples": [
+            "living",
+            "room",
+            "bed",
+            "carpets",
+            "house",
+            "kitchen",
+            "my",
+            "porch",
+            "hall",
+            "den"
+        ]
+    },
+    {
+        "slot_name": "color_type",
+        "description": "",
+        "examples": [
+            "red",
+            "blue",
+            "orange",
+            "softer",
+            "random",
+            "green",
+            "yellow",
+            "yellowish",
+            "romantic",
+            "warm"
+        ]
+    },
+    {
+        "slot_name": "weather_descriptor",
+        "description": "",
+        "examples": [
+            "warm",
+            "clothes",
+            "coat",
+            "stay",
+            "sunny",
+            "too",
+            "hot",
+            "for",
+            "pants",
+            "rain"
+        ]
+    },
+    {
+        "slot_name": "playlist_name",
+        "description": "",
+        "examples": [
+            "tactics",
+            "workout",
+            "playlist",
+            "list",
+            "five",
+            "one",
+            "electronic",
+            "spotify",
+            "party",
+            "dog"
+        ]
+    },
+    {
+        "slot_name": "transport_type",
+        "description": "",
+        "examples": [
+            "taxi",
+            "train",
+            "car",
+            "trains",
+            "cab",
+            "ride",
+            "walk",
+            "metro",
+            "driving",
+            "bus"
+        ]
+    },
+    {
+        "slot_name": "game_name",
+        "description": "",
+        "examples": [
+            "football",
+            "match",
+            "scabble",
+            "mindsweeper",
+            "poker",
+            "mario",
+            "scrabble",
+            "subway",
+            "surfers",
+            "squash"
+        ]
+    },
+    {
+        "slot_name": "transport_name",
+        "description": "",
+        "examples": [
+            "flight",
+            "five",
+            "thousand",
+            "four",
+            "hundred",
+            "and",
+            "thirty",
+            "one",
+            "kalka",
+            "virgin"
+        ]
+    },
+    {
+        "slot_name": "music_descriptor",
+        "description": "",
+        "examples": [
+            "itunes",
+            "music",
+            "item",
+            "one",
+            "background",
+            "hit",
+            "song",
+            "dangal",
+            "movie",
+            "best"
+        ]
+    },
+    {
+        "slot_name": "song_name",
+        "description": "",
+        "examples": [
+            "thinking",
+            "out",
+            "loud",
+            "titanic",
+            "movie",
+            "mocking",
+            "bird",
+            "be",
+            "warned",
+            "some"
+        ]
+    },
+    {
+        "slot_name": "email_folder",
+        "description": "",
+        "examples": [
+            "inbox",
+            "spam",
+            "inboxes",
+            "mailbox",
+            "drafts"
+        ]
+    },
+    {
+        "slot_name": "meal_type",
+        "description": "",
+        "examples": [
+            "dinner",
+            "diner",
+            "lunch",
+            "breakfast",
+            "break",
+            "fast"
+        ]
+    },
+    {
+        "slot_name": "change_amount",
+        "description": "",
+        "examples": [
+            "to",
+            "ninety",
+            "level",
+            "seven",
+            "one",
+            "percent",
+            "twenty",
+            "fifty",
+            "by",
+            "half"
+        ]
+    },
+    {
+        "slot_name": "movie_type",
+        "description": "",
+        "examples": [
+            "best",
+            "imdb",
+            "ratings",
+            "action",
+            "justin",
+            "bieber",
+            "good",
+            "drama",
+            "romantic",
+            "comedy"
+        ]
+    },
+    {
+        "slot_name": "movie_name",
+        "description": "",
+        "examples": [
+            "learning",
+            "games",
+            "titanic",
+            "swat",
+            "logan",
+            "led",
+            "zeppelin",
+            "houses",
+            "of",
+            "the"
+        ]
+    },
+    {
+        "slot_name": "alarm_type",
+        "description": "",
+        "examples": [
+            "wake",
+            "up",
+            "continuous",
+            "alarm",
+            "house",
+            "soccer",
+            "practice"
+        ]
+    },
+    {
+        "slot_name": "drink_type",
+        "description": "",
+        "examples": [
+            "coffee",
+            "milk",
+            "sweet",
+            "tea",
+            "diet",
+            "coke",
+            "beer",
+            "water",
+            "margarita",
+            "rice"
+        ]
+    },
+    {
+        "slot_name": "email_address",
+        "description": "",
+        "examples": [
+            "dale@gmail",
+            "dot",
+            "com",
+            "joejoe@gmail",
+            "sdfa@hotmail",
+            "ssmith@yahoo",
+            "blahblah@blah",
+            "sam@gmail",
+            "newmail@gmail",
+            "dbell@aol"
+        ]
+    },
+    {
+        "slot_name": "game_type",
+        "description": "",
+        "examples": [
+            "video"
+        ]
+    },
+    {
+        "slot_name": "time_zone",
+        "description": "",
+        "examples": [
+            "ist",
+            "central",
+            "midwest",
+            "date",
+            "current",
+            "pst",
+            "london",
+            "england",
+            "day",
+            "this"
+        ]
+    },
+    {
+        "slot_name": "audiobook_author",
+        "description": "",
+        "examples": [
+            "torey",
+            "hayden",
+            "john",
+            "grisham",
+            "robert",
+            "louis",
+            "stevenson",
+            "dean",
+            "koontz",
+            "rl"
+        ]
+    },
+    {
+        "slot_name": "app_name",
+        "description": "",
+        "examples": [
+            "lyft",
+            "grubhub",
+            "tidal",
+            "spotify",
+            "pandora",
+            "sirius",
+            "audible",
+            "irctc",
+            "gps",
+            "netflix"
+        ]
+    },
+    {
+        "slot_name": "cooking_type",
+        "description": "",
+        "examples": [
+            "bake",
+            "sear",
+            "cook",
+            "boil",
+            "poach",
+            "freezing",
+            "steam",
+            "roll",
+            "evaporated",
+            "roast"
+        ]
+    },
+    {
+        "slot_name": "coffee_type",
+        "description": "",
+        "examples": [
+            "hot",
+            "cappuccino",
+            "happy",
+            "juice",
+            "creamy",
+            "coffee",
+            "with",
+            "one",
+            "cream",
+            "and"
+        ]
+    },
+    {
+        "slot_name": "ingredient",
+        "description": "",
+        "examples": [
+            "ground",
+            "beef",
+            "zucchini",
+            "rice",
+            "potato",
+            "vegan",
+            "egg",
+            "vegetable",
+            "quinoa",
+            "cheese"
+        ]
+    },
+    {
+        "slot_name": "music_album",
+        "description": "",
+        "examples": [
+            "theme",
+            "song",
+            "for",
+            "frasier"
+        ]
+    },
+    {
+        "slot_name": "transport_descriptor",
+        "description": "",
+        "examples": [
+            "business",
+            "class",
+            "berth",
+            "seat",
+            "return",
+            "round",
+            "trip",
+            "goes",
+            "via",
+            "miami"
+        ]
+    },
+    {
+        "slot_name": "sport_type",
+        "description": "",
+        "examples": [
+            "redso",
+            "boston",
+            "game"
+        ]
+    }
+]

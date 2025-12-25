@@ -1,0 +1,319 @@
+[
+    {
+        "intent_name": "flight",
+        "description": "",
+        "examples": [
+            "the flight will originate from boston",
+            "what flights are available from denver to philadelphia on monday",
+            "what is the first flight after 8 am from boston to san francisco",
+            "show me the flights from boston to san francisco that arrive in the afternoon",
+            "give me a list of flights between denver and oakland",
+            "i need a flight from san francisco to boston that leaves after 8 pm",
+            "i need late flight wednesday from oakland to salt lake city",
+            "what flights are there from newark to seattle on saturday",
+            "all flights phoenix to sfo",
+            "what flights do you have leaving denver and arriving in san francisco"
+        ]
+    },
+    {
+        "intent_name": "ground_service",
+        "description": "",
+        "examples": [
+            "what does ground transportation look like in oakland",
+            "what types of ground transportation are there to san francisco airport",
+            "ground transportation san francisco",
+            "what do you know about car rental in denver",
+            "can you give me information on transportation from the airport in philadelphia to downtown philadelphia",
+            "show me ground transportation in san francisco",
+            "what is the ground transport in denver",
+            "ground transport denver",
+            "train to newark",
+            "ground transportation baltimore"
+        ]
+    },
+    {
+        "intent_name": "flight_time",
+        "description": "",
+        "examples": [
+            "show me times for flights from san francisco to atlanta",
+            "show me the schedule for airlines leaving pittsburgh going to san francisco for next monday",
+            "now i 'd like a schedule for the flights on tuesday morning from oakland no from dallas fort worth to atlanta",
+            "what time is the last flight from washington to san francisco",
+            "what are the times that you have planes leaving from san francisco going to pittsburgh on july seventh",
+            "what time does twa depart from boston to go to san francisco",
+            "please list the flight times from newark to boston",
+            "what is the departure time of the latest flight of united airlines from denver to boston",
+            "can you tell me the time a flight would leave from atlanta to boston in the afternoon",
+            "i want to know the time of the latest flight i can take from washington to san francisco where i can get a dinner meal"
+        ]
+    },
+    {
+        "intent_name": "abbreviation",
+        "description": "",
+        "examples": [
+            "what is fare code qw",
+            "what is fare code f",
+            "show me what fare codes symbols stand for",
+            "what is ff",
+            "what does code y mean",
+            "what is fare code h",
+            "what is sa",
+            "what is fare code m",
+            "what does the fare code f and fn mean",
+            "explain restriction ap please"
+        ]
+    },
+    {
+        "intent_name": "airline",
+        "description": "",
+        "examples": [
+            "what airline besides continental flies between boston and denver",
+            "what airlines have flights from boston to philadelphia that leave before 630 am",
+            "show me airline abbreviations",
+            "please show me airlines with round trip flights from boston to denver stop philadelphia",
+            "can you list all the airlines that have flights from boston to san francisco",
+            "what airlines fly from boston to atlanta",
+            "what airlines have business class",
+            "which airlines serve atlanta",
+            "what airlines have nonstop early afternoon flights from boston to denver",
+            "give me a list of airlines in pittsburgh"
+        ]
+    },
+    {
+        "intent_name": "airfare",
+        "description": "",
+        "examples": [
+            "show me the fares from dallas to san francisco",
+            "fares and flights from pittsburgh to philadelphia",
+            "i 'd like to see all the economy fares from baltimore to philadelphia",
+            "let 's see how much would a direct flight from atlanta to denver be on may seventh",
+            "fares from dallas to baltimore",
+            "show me all the night fares between philadelphia and san francisco",
+            "show me all prices of first class from baltimore to dallas",
+            "i 'd like to find the cheapest fare from atlanta to dallas",
+            "i 'd like to find the least expensive one way fare from boston to philadelphia",
+            "all right what i 'd like to do is find the cheapest one way fare from boston to denver"
+        ]
+    },
+    {
+        "intent_name": "city",
+        "description": "",
+        "examples": [
+            "what city is the airport mco in",
+            "show me the cities served by canadian airlines international",
+            "which cities does united airlines service",
+            "what are the cities that american airlines serves",
+            "what cities does continental service",
+            "show me the cities served by nationair",
+            "where is general mitchell international located",
+            "which cities are serviced by both american and delta airlines",
+            "what time zone is denver in",
+            "show me all the cities that midwest express serves"
+        ]
+    },
+    {
+        "intent_name": "aircraft",
+        "description": "",
+        "examples": [
+            "what type of aircraft does eastern fly from atlanta to denver before 6 pm",
+            "what kind of aircraft is used on the first class american airlines flight from philadelphia to san francisco with a dallas stopover",
+            "please tell me the type of aircraft used from atlanta to denver before 12 o'clock noon",
+            "what type of aircraft flies from pittsburgh to baltimore",
+            "can you tell me what aircraft is used for delta flight 1222 from kansas city to salt lake city",
+            "what 's the smallest plane that flies from pittsburgh to baltimore on eight sixteen",
+            "what type of aircraft leaves from boston to washington dc at 9 am",
+            "list types of planes that fly between pittsburgh and baltimore",
+            "i would like to know what type of aircraft will be used on the morning of july seventh from atlanta to boston",
+            "what type of aircraft leaves from boston to washington dc before 9 am"
+        ]
+    },
+    {
+        "intent_name": "meal",
+        "description": "",
+        "examples": [
+            "do i get a meal on the atlanta to bwi flight eastern 210",
+            "show me all meals on flights from atlanta to washington",
+            "what are all the available meals",
+            "is there a meal on delta flight 852 from san francisco to dallas fort worth",
+            "what types of meals are available"
+        ]
+    },
+    {
+        "intent_name": "quantity",
+        "description": "",
+        "examples": [
+            "how many us air flights leave from washington",
+            "how many flights are there between san francisco and philadelphia on august eighteenth",
+            "how many flights does american airlines have from boston to atlanta",
+            "how many flights does eastern airlines have from boston to atlanta",
+            "how many flights does each airline have with first class service",
+            "how many first class flights are provided by american airlines",
+            "list the total number of flights between all airports by delta",
+            "how many flights come from denver to baltimore on july nineteenth",
+            "how many american airline flights leave denver june tenth",
+            "how many airports does oakland have"
+        ]
+    },
+    {
+        "intent_name": "ground_fare",
+        "description": "",
+        "examples": [
+            "what price is a limousine service in boston",
+            "please list the prices for a rental car in pittsburgh",
+            "how much does it cost to rent a car in tacoma",
+            "what are the rental car rates in san francisco",
+            "how much does the limousine service cost within pittsburgh",
+            "what is the cost of limousine service in philadelphia",
+            "what are the costs of car rental in dallas",
+            "how much would car rental cost in atlanta",
+            "how expensive is the san francisco limousine service",
+            "what are the rental car rates in dallas"
+        ]
+    },
+    {
+        "intent_name": "airport",
+        "description": "",
+        "examples": [
+            "names of airports",
+            "give me a list of airports in baltimore",
+            "houston airports",
+            "airports in new york",
+            "what 's the name of the denver airport",
+            "what is the name of the airport in philadelphia",
+            "please list information regarding san francisco airport",
+            "show me airports in washington dc",
+            "what airport in new york is closest to downtown",
+            "please show me all airports in denver"
+        ]
+    },
+    {
+        "intent_name": "flight+airfare",
+        "description": "",
+        "examples": [
+            "give me the flights and fares on december twenty seventh from orlando to indianapolis airfare",
+            "please list me the flights and their cost of all airlines flying from denver to baltimore",
+            "please give me a list of all the flights between dallas and baltimore and their cost",
+            "what are the flights and fares from atlanta to philadelphia",
+            "all flights and fares from atlanta to dallas round trip after 12 pm less than 1100 dollars",
+            "all flights and fares from dallas",
+            "show all flights and fares from pittsburgh to san francisco",
+            "show me all flights and fares from denver to san francisco",
+            "show all flights and fares from denver to san francisco",
+            "give me the flights and fares on december twenty seventh from indianapolis to orlando"
+        ]
+    },
+    {
+        "intent_name": "capacity",
+        "description": "",
+        "examples": [
+            "list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore",
+            "what is the seating capacity of the various airplanes that united airlines uses",
+            "how many seats in a 100",
+            "what is the total seating capacity of all aircraft of american airlines",
+            "how many people fit on a 72s airplane",
+            "what are the seating capacities of planes between pittsburgh and baltimore",
+            "what 's the capacity of an f28",
+            "how many passengers fit on a d9s",
+            "what is the seating capacity for the f28",
+            "how many passengers can a boeing 737 hold"
+        ]
+    },
+    {
+        "intent_name": "flight_no",
+        "description": "",
+        "examples": [
+            "what is the flight number for the continental flight which leaves denver at 1220 pm and goes to san francisco",
+            "what is the number of first class flights on american airlines",
+            "may i have a listing of flight numbers from columbus ohio to minneapolis minnesota on monday",
+            "i 'm trying to find the flight number from a flight from orlando to cleveland on us air and it arrives around 10 pm",
+            "flight numbers from columbus to minneapolis tomorrow",
+            "what are the flight numbers of the flights which go from san francisco to washington via indianapolis",
+            "list the number of flights arriving in dallas fort worth from boston before noon",
+            "what is the flight number of the earliest flight between boston and washington dc",
+            "i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8 pm monday night",
+            "please show me the return flight number from toronto to st. petersburg"
+        ]
+    },
+    {
+        "intent_name": "restriction",
+        "description": "",
+        "examples": [
+            "what is restriction ap57",
+            "what is restriction ap80",
+            "what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars",
+            "what are the restrictions on the cheapest one way fare between boston and oakland"
+        ]
+    },
+    {
+        "intent_name": "distance",
+        "description": "",
+        "examples": [
+            "how far from the airport in the dallas fort worth airport is dallas",
+            "how far is the airport from downtown pittsburgh",
+            "how long is a trip from philadelphia airport to downtown philadelphia",
+            "how long does it take to get from atlanta airport into the city of atlanta",
+            "what is the distance from san francisco international airport to san francisco",
+            "how far is oakland airport from downtown",
+            "what is the distance from boston airport to boston",
+            "what is the distance from la guardia to new york 's downtown",
+            "how far is downtown from the airport in dallas",
+            "how far is it from salt lake city airport to salt lake city"
+        ]
+    },
+    {
+        "intent_name": "day_name",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "airfare+flight",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "flight+airline",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "flight_no+airline",
+        "description": "",
+        "examples": []
+    },
+    {
+        "intent_name": "airline+flight_no",
+        "description": "",
+        "examples": [
+            "airline and flight number from columbus to minneapolis",
+            "may i please see airlines and flight numbers from new york to toronto on the same date june seventeenth also arriving in toronto before noon thank you"
+        ]
+    },
+    {
+        "intent_name": "ground_service+ground_fare",
+        "description": "",
+        "examples": [
+            "what ground transportation is available from the pittsburgh airport to downtown and how much does it cost"
+        ]
+    },
+    {
+        "intent_name": "airfare+flight_time",
+        "description": "",
+        "examples": [
+            "show me the costs and times for flights from san francisco to atlanta"
+        ]
+    },
+    {
+        "intent_name": "cheapest",
+        "description": "",
+        "examples": [
+            "show me the cheapest fare in the database"
+        ]
+    },
+    {
+        "intent_name": "aircraft+flight+flight_no",
+        "description": "",
+        "examples": [
+            "i want to fly from detroit to st. petersburg on northwest airlines and leave around 9 am tell me what aircraft are used by this flight and tell me the flight number"
+        ]
+    }
+]

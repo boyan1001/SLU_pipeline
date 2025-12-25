@@ -1,0 +1,582 @@
+[
+    {
+        "slot_name": "music_item",
+        "description": "",
+        "examples": [
+            "song",
+            "chant",
+            "artist",
+            "track",
+            "melody",
+            "album",
+            "theme",
+            "tune",
+            "soundtrack",
+            "concerto"
+        ]
+    },
+    {
+        "slot_name": "playlist_owner",
+        "description": "",
+        "examples": [
+            "my",
+            "gretchen",
+            "s",
+            "donna",
+            "pamela",
+            "juliana",
+            "michele",
+            "ines",
+            "letha",
+            "virginia"
+        ]
+    },
+    {
+        "slot_name": "playlist",
+        "description": "",
+        "examples": [
+            "50",
+            "clásicos",
+            "this",
+            "is",
+            "selena",
+            "prince",
+            "confidence",
+            "boost",
+            "spotlight",
+            "on"
+        ]
+    },
+    {
+        "slot_name": "entity_name",
+        "description": "",
+        "examples": [
+            "step",
+            "to",
+            "me",
+            "here",
+            "comes",
+            "santa",
+            "claus",
+            "sugarolly",
+            "days",
+            "manuelita"
+        ]
+    },
+    {
+        "slot_name": "artist",
+        "description": "",
+        "examples": [
+            "westbam",
+            "iris",
+            "dement",
+            "slimm",
+            "cutta",
+            "calhoun",
+            "brian",
+            "epstein",
+            "adele",
+            "chicane"
+        ]
+    },
+    {
+        "slot_name": "party_size_description",
+        "description": "",
+        "examples": [
+            "valarie",
+            "mari",
+            "and",
+            "i",
+            "my",
+            "grandfather",
+            "cousin",
+            "me",
+            "hannah",
+            "mom"
+        ]
+    },
+    {
+        "slot_name": "restaurant_type",
+        "description": "",
+        "examples": [
+            "restaurant",
+            "bistro",
+            "taverna",
+            "brasserie",
+            "pub",
+            "bar",
+            "cafe",
+            "diner",
+            "gastropub",
+            "osteria"
+        ]
+    },
+    {
+        "slot_name": "spatial_relation",
+        "description": "",
+        "examples": [
+            "in",
+            "the",
+            "area",
+            "far",
+            "nearest",
+            "neighbourhood",
+            "within",
+            "walking",
+            "distance",
+            "not"
+        ]
+    },
+    {
+        "slot_name": "state",
+        "description": "",
+        "examples": [
+            "mt",
+            "massachusetts",
+            "sc",
+            "oh",
+            "ohio",
+            "new",
+            "jersey",
+            "arkansas",
+            "alabama",
+            "tennessee"
+        ]
+    },
+    {
+        "slot_name": "country",
+        "description": "",
+        "examples": [
+            "venezuela",
+            "gabon",
+            "moldova",
+            "sint",
+            "maarten",
+            "nepal",
+            "ethiopia",
+            "burundi",
+            "turks",
+            "and"
+        ]
+    },
+    {
+        "slot_name": "party_size_number",
+        "description": "",
+        "examples": [
+            "3",
+            "eight",
+            "one",
+            "seven",
+            "6",
+            "10",
+            "9",
+            "four",
+            "1",
+            "4"
+        ]
+    },
+    {
+        "slot_name": "cuisine",
+        "description": "",
+        "examples": [
+            "marche",
+            "south",
+            "american",
+            "english",
+            "veneto",
+            "puglia",
+            "pastelaria",
+            "cuban",
+            "latin",
+            "swiss"
+        ]
+    },
+    {
+        "slot_name": "city",
+        "description": "",
+        "examples": [
+            "jetmore",
+            "fork",
+            "mountain",
+            "frewen",
+            "covenant",
+            "life",
+            "sand",
+            "lake",
+            "beedeville",
+            "moss"
+        ]
+    },
+    {
+        "slot_name": "poi",
+        "description": "",
+        "examples": [
+            "our",
+            "college",
+            "my",
+            "hostel",
+            "in",
+            "town",
+            "mum",
+            "s",
+            "hotel",
+            "downtown"
+        ]
+    },
+    {
+        "slot_name": "served_dish",
+        "description": "",
+        "examples": [
+            "vichyssoise",
+            "ma",
+            "po",
+            "tofu",
+            "pickled",
+            "cucumber",
+            "croissant",
+            "minestrone",
+            "ranch",
+            "dressing"
+        ]
+    },
+    {
+        "slot_name": "timeRange",
+        "description": "",
+        "examples": [
+            "1",
+            "hour",
+            "and",
+            "second",
+            "from",
+            "now",
+            "in",
+            "nine",
+            "months",
+            "six"
+        ]
+    },
+    {
+        "slot_name": "restaurant_name",
+        "description": "",
+        "examples": [
+            "venetian",
+            "theatre",
+            "the",
+            "hat",
+            "ledbury",
+            "floating",
+            "restaurant",
+            "fort",
+            "mustard",
+            "seed"
+        ]
+    },
+    {
+        "slot_name": "sort",
+        "description": "",
+        "examples": [
+            "popular",
+            "top-20",
+            "best",
+            "top-twenty",
+            "top",
+            "highly",
+            "rated",
+            "top-5",
+            "new",
+            "top-rated"
+        ]
+    },
+    {
+        "slot_name": "facility",
+        "description": "",
+        "examples": [
+            "smoking",
+            "room",
+            "pool",
+            "parking",
+            "outdoor",
+            "spa",
+            "internet",
+            "indoor",
+            "wifi"
+        ]
+    },
+    {
+        "slot_name": "current_location",
+        "description": "",
+        "examples": [
+            "current",
+            "spot",
+            "location",
+            "here",
+            "position",
+            "place"
+        ]
+    },
+    {
+        "slot_name": "condition_description",
+        "description": "",
+        "examples": [
+            "storm",
+            "rain",
+            "humid",
+            "snow",
+            "depression",
+            "snowy",
+            "stormy",
+            "cloudy",
+            "windy",
+            "hail"
+        ]
+    },
+    {
+        "slot_name": "geographic_poi",
+        "description": "",
+        "examples": [
+            "stanislaus",
+            "national",
+            "forest",
+            "upper",
+            "klamath",
+            "wildlife",
+            "refuge",
+            "charles",
+            "pinckney",
+            "historic"
+        ]
+    },
+    {
+        "slot_name": "condition_temperature",
+        "description": "",
+        "examples": [
+            "colder",
+            "warmer",
+            "cold",
+            "temperate",
+            "hot",
+            "freezing",
+            "chilly",
+            "chillier",
+            "hotter",
+            "warm"
+        ]
+    },
+    {
+        "slot_name": "album",
+        "description": "",
+        "examples": [
+            "allergic",
+            "rap",
+            "album",
+            "one",
+            "takes",
+            "place",
+            "in",
+            "your",
+            "work",
+            "space"
+        ]
+    },
+    {
+        "slot_name": "service",
+        "description": "",
+        "examples": [
+            "google",
+            "music",
+            "deezer",
+            "lastfm",
+            "vimeo",
+            "zvooq",
+            "iheart",
+            "netflix",
+            "groove",
+            "shark"
+        ]
+    },
+    {
+        "slot_name": "year",
+        "description": "",
+        "examples": [
+            "seventies",
+            "eighties",
+            "fourties",
+            "2014",
+            "2011",
+            "2015",
+            "1966",
+            "2005",
+            "1993",
+            "twenties"
+        ]
+    },
+    {
+        "slot_name": "track",
+        "description": "",
+        "examples": [
+            "little",
+            "robin",
+            "redbreast",
+            "all",
+            "of",
+            "your",
+            "toys",
+            "jingle",
+            "bells",
+            "the"
+        ]
+    },
+    {
+        "slot_name": "genre",
+        "description": "",
+        "examples": [
+            "techno",
+            "swing",
+            "pop",
+            "showtunes",
+            "psychedelic",
+            "rock",
+            "meditative",
+            "chanson",
+            "retro",
+            "rap"
+        ]
+    },
+    {
+        "slot_name": "object_select",
+        "description": "",
+        "examples": [
+            "current",
+            "this",
+            "following",
+            "next",
+            "last",
+            "previous"
+        ]
+    },
+    {
+        "slot_name": "object_type",
+        "description": "",
+        "examples": [
+            "textbook",
+            "movie",
+            "times",
+            "picture",
+            "song",
+            "novel",
+            "schedules",
+            "show",
+            "video",
+            "game"
+        ]
+    },
+    {
+        "slot_name": "rating_value",
+        "description": "",
+        "examples": [
+            "1",
+            "5",
+            "4",
+            "four",
+            "3",
+            "0",
+            "2",
+            "zero",
+            "two",
+            "one"
+        ]
+    },
+    {
+        "slot_name": "best_rating",
+        "description": "",
+        "examples": [
+            "6"
+        ]
+    },
+    {
+        "slot_name": "rating_unit",
+        "description": "",
+        "examples": [
+            "stars",
+            "points"
+        ]
+    },
+    {
+        "slot_name": "object_name",
+        "description": "",
+        "examples": [
+            "creatures",
+            "of",
+            "light",
+            "and",
+            "darkness",
+            "the",
+            "adventures",
+            "cookie",
+            "&",
+            "cream"
+        ]
+    },
+    {
+        "slot_name": "object_part_of_series_type",
+        "description": "",
+        "examples": [
+            "series",
+            "saga",
+            "chronicle"
+        ]
+    },
+    {
+        "slot_name": "movie_name",
+        "description": "",
+        "examples": [
+            "fish",
+            "story",
+            "cage",
+            "without",
+            "a",
+            "key",
+            "seed",
+            "of",
+            "chucky",
+            "the"
+        ]
+    },
+    {
+        "slot_name": "object_location_type",
+        "description": "",
+        "examples": [
+            "movie",
+            "house",
+            "cinema",
+            "theatre"
+        ]
+    },
+    {
+        "slot_name": "location_name",
+        "description": "",
+        "examples": [
+            "douglas",
+            "theatre",
+            "company",
+            "star",
+            "theatres",
+            "caribbean",
+            "cinemas",
+            "goodrich",
+            "quality",
+            "theaters"
+        ]
+    },
+    {
+        "slot_name": "movie_type",
+        "description": "",
+        "examples": [
+            "films",
+            "animated",
+            "movies",
+            "film",
+            "movie"
+        ]
+    }
+]
