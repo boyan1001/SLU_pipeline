@@ -43,7 +43,7 @@ We will use ollama to access these model. Make sure you can use ollama properly.
 ## Usage
 Use this command to build the website by Gradio.
 ```
-uv main.py
+uv run main.py
 ```
 Then you will get the links of website.
 
